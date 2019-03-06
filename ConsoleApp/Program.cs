@@ -10,7 +10,11 @@ namespace ConsoleApp
         {
 
             //add some code 
+
             //add something in develop branch
+
+            //added something in Master branch
+
 
             Account acc1 = new Account("acc1", "John Smith");
 
