@@ -8,6 +8,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
+            //add some code 
+
             Account acc1 = new Account("acc1", "John Smith");
 
             Product p1 = new Product("p1", "Dog food", 0.5, 1.7);
